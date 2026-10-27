@@ -1,0 +1,14 @@
+.logo{
+    color:dark;
+}
+    .logo-accent{
+        color:#4D5AE5;
+    }
+    .button:hover,
+    .button:focus{
+        background-color: #404bbf;
+    }
+    .contacts-link:hover,
+    .contacts-link:focus{
+        color:#4d5ae5
+    }
