@@ -58,7 +58,8 @@ margin: 24px;
 }
 .logo{
     color:#000000 !important;
+    text-decoration: none;
 }
-.logo.logo-accent{
+.logo-accent{
         color:#4D5AE5;
     }
