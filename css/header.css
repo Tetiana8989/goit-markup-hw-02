@@ -8,13 +8,8 @@
     }
 
     .logo-accent{
-font-weight: 700;
-font-size: 18px;
-line-height: 1.33;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color:#4d5ae5;
-background-color: transparent;
+    color: #4d5ae5;
+   
   } 
   
     .page-menu-link{
@@ -60,6 +55,6 @@ margin: 24px;
     color:#000000;
     text-decoration: none;
 }
-.logo-accent{
-        color:#4D5AE5;
+#header#header .logo-accent{
+background-color: transparent !important;
     }
