@@ -1,5 +1,5 @@
 /*=============hom=============*/
-.ul{
+ul{
     list-style-type: none;
 }
  a{
@@ -10,7 +10,7 @@
     cursor: pointer;
    } 
 
-.body{
+body{
     font-family: "Roboto", sans-serif;
     color: #2e2f42;
     font-weight: 400;
@@ -34,7 +34,4 @@
     .contacts-link:focus{
         color:#4d5ae5
     }
-    body{
-        font-family: "Roboto,",
-        sans-serif;
-    }
+   
