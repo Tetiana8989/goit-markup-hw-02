@@ -1,6 +1,5 @@
 .footer-logo{
-    color:#f4f4fd;
-    background: #2e2f42;
+    color: #f4f4fd;
 }
     .logo-accent{
         color: #4d5ae5;
@@ -13,6 +12,9 @@
     .contacts-link:focus{
         color:#4d5ae5
     }
+    .logo{
+        color: #ffffff !important;
+    }
 
     .logo-accent{
 font-weight: 700;
@@ -21,7 +23,7 @@ line-height: 1.33;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color:#4d5ae5;
-background: #2e2f42;
+background:transparent;
   } 
 .footer-text{
     font-weight: 400;
@@ -33,4 +35,8 @@ background: #2e2f42;
 }
 .navy{
     color: #2e2f42;
+    background: #2e2f42;
+}
+.footer{
+    background:#2e2f42;
 }
