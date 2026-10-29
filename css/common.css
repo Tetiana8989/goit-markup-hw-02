@@ -27,9 +27,5 @@ body{
 
     .button:hover,
     .button:focus{
-        background-color: #404bbf;
-    }
-    .contacts-link:hover,
-    .contacts-link:focus{
-        color:#4d5ae5
+        background-color:#ffffff;
     }

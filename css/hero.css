@@ -1,4 +1,4 @@
-.hero-text-name{
+.hero-name{
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07143;
@@ -6,11 +6,16 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
 } 
-.hero-text-navi{
+.hero-navi{
     display: flex;
-    margin-left: 0;
-    background: #4d5ae5;
+    justify-content: flex-start;
 }
-#hero-text{
+.hero-navi button{
+background-color: #4d5ae5;
+color: #fff;
+border: none;
+cursor: pointer;
+}
+#hero{
     background-color: #2e2f42;;
 }
