@@ -13,25 +13,9 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
-background-color: #ffff;
+
 padding: 16px 0;
 text-align: center;
-}
-.team-description{
-    font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-color: #434455;
-background: #f4f4fd;
-border-radius: 0 0 4px 4px;
-overflow: hidden;
-flex-wrap: wrap;
-gap: 24px;
-justify-content: center;
-list-style: none;
-padding: 0;
-margin: 0;
 }
 .team-position{
     font-weight: 400;
@@ -41,6 +25,24 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
 }
-.team{
- background:#f4f4fd;
+#team{
+    background-color: #e7e9fc;
+    padding: 96px 0;
 }
+.team-card{
+    background-color:#fff ;
+    list-style: none;
+}
+.team-description{
+    display: block;
+   height: auto;
+  }
+  .container{
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  .team-list{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
