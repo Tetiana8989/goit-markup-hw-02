@@ -13,8 +13,6 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
-
-padding: 16px 0;
 text-align: center;
 }
 .team-position{
@@ -25,9 +23,8 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
 }
-#team{
-    background-color: #e7e9fc;
-    padding: 96px 0;
+.team{
+    background-color: #f4f4fd;
 }
 .team-card{
     background-color:#fff ;
@@ -37,12 +34,7 @@ color: #434455;
     display: block;
    height: auto;
   }
-  .container{
-    margin: 0 auto;
-    padding: 0 15px;
-  }
+
   .team-list{
     list-style: none;
-    margin: 0;
-    padding: 0;
   }
